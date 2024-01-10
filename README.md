@@ -1,4 +1,4 @@
 # web-project
-projects regarding web development
+Projects regarding web development
 <br>
 Author- Shashwat shah
